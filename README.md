@@ -12,6 +12,6 @@ Inter-VLAN Routing: Enabled the Layer 3 routing engine (ip routing) and Switched
 
 Layer 3 Switching: Utilized Cisco 3650 multilayer switches for hardware-based routing, reducing latency compared to "Router-on-a-Stick" configurations.
 
-| Department | VLAN ID | Subnet | Gateway (SVI) |
-| Sales | 10 | 192.168.10.0/24 | 192.168.10.1 |
-| Marketing | 20 | 192.168.20.0/24 | 192.168.20.1 |
+Department,VLAN ID,Subnet,Gateway (SVI)
+Sales,10,192.168.10.0/24,192.168.10.1
+Marketing,20,192.168.20.0/24,192.168.20.1
