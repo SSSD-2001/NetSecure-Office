@@ -1,5 +1,5 @@
 # Office Network with NAT & Security
-A final-year Computer Engineering project simulating a real-world enterprise environment.
+A Computer Engineering project simulating a real-world enterprise environment.
 
 ## 🛠 Tech Stack
 * **Software:** Cisco Packet Tracer / GNS3
